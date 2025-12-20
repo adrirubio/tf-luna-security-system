@@ -1,0 +1,9 @@
+Name,Quantity,Component
+"ESP32-CAM Module",1,"Controller"
+"TF-Luna Lidar Sensor",1,"Lidar Sensor"
+"microSD Card (32GB)",1,"Storage"
+"Custom Carrier PCB",1,"PCB"
+"Custom 3D Printed Case",1,"Enclosure"
+"Power Bank",1,"Power"
+"USB-A to USB-C Cable",1,"Cable"
+"Mounting Hardware (Assorted Screws)",1,"Hardware"
