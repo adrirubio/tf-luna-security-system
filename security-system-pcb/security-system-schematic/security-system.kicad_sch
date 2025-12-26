@@ -3337,7 +3337,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 81.28 95.758 90)
 			(effects
 				(font
@@ -3407,7 +3407,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 251.46 109.22 0)
 			(effects
 				(font
@@ -3615,7 +3615,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 59.69 101.6 0)
 			(effects
 				(font
@@ -3796,7 +3796,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 219.71 109.22 0)
 			(effects
 				(font
@@ -3922,16 +3922,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "72cf5a67-20c5-420f-9b85-2afd098a4cda")
 		(property "Reference" "U1"
-			(at 184.15 71.12 0)
+			(at 184.15 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "ESP32-Header"
 			(at 184.15 73.66 0)
 			(effects
 				(font
@@ -3940,7 +3941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "security-system-footprints:esp32-header"
 			(at 184.15 88.9 0)
 			(effects
 				(font
@@ -4121,7 +4122,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 81.28 93.218 90)
 			(effects
 				(font
@@ -4256,7 +4257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 249.682 92.71 90)
 			(effects
 				(font
@@ -4325,7 +4326,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53047-0610_1x06_P1.25mm_Vertical"
 			(at 128.27 102.87 0)
 			(effects
 				(font
@@ -4529,7 +4530,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120 kΩ"
+		(property "Value" "120 Ω"
 			(at 222.25 93.9799 0)
 			(effects
 				(font
@@ -4538,7 +4539,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 217.932 92.71 90)
 			(effects
 				(font
