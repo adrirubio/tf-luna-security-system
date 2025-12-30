@@ -133,7 +133,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gerbers/")
+			(outputdirectory "gerbers/security-system-v1.1/")
 		)
 	)
 	(net 0 "")
@@ -4125,7 +4125,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "DECEMBER/26/2025 - v1.0"
+	(gr_text "DECEMBER/26/2025 - v1.1"
 		(at 153.012311 104.93 0)
 		(layer "F.SilkS")
 		(uuid "04dc843e-47bc-4dad-ab1e-16538b7c6065")
