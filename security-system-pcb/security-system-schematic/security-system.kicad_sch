@@ -2600,7 +2600,7 @@
 	)
 	(text "RED LED"
 		(exclude_from_sim no)
-		(at 251.46 68.834 0)
+		(at 254.762 68.834 0)
 		(effects
 			(font
 				(face "KiCad Font")
@@ -2805,10 +2805,6 @@
 		(uuid "c6e3aa47-72b4-472f-8fa4-8e287a08ad55")
 	)
 	(no_connect
-		(at 171.45 88.9)
-		(uuid "c946f9c5-12cc-493d-8751-41221df1b4ea")
-	)
-	(no_connect
 		(at 171.45 114.3)
 		(uuid "c9fd086d-728d-4e99-b219-11da59a79b0f")
 	)
@@ -2978,6 +2974,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 83.82) (xy 262.89 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c64e2a2-cb4c-4f00-813c-db3d265140b0")
+	)
+	(wire
+		(pts
 			(xy 85.09 93.98) (xy 87.63 93.98)
 		)
 		(stroke
@@ -2995,6 +3001,16 @@
 			(type default)
 		)
 		(uuid "57b5d30a-7fff-4f1d-a071-5561342dc509")
+	)
+	(wire
+		(pts
+			(xy 158.75 88.9) (xy 171.45 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5eed511e-7477-4d5b-a701-55478a161111")
 	)
 	(wire
 		(pts
@@ -3216,6 +3232,16 @@
 		)
 		(uuid "f1e29e42-74c9-46de-b9ce-d4200feb7ae5")
 	)
+	(label "LED_STATUS"
+		(at 251.46 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "03516219-a34c-4a44-accc-a8288dd6b7d1")
+	)
 	(label "SDA"
 		(at 166.37 109.22 0)
 		(effects
@@ -3245,6 +3271,16 @@
 			(justify left bottom)
 		)
 		(uuid "ab73af3e-ce42-493e-ba1b-2fffb31e8fc6")
+	)
+	(label "LED_STATUS"
+		(at 158.75 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ba8c8574-40fb-4c69-8dd9-1e63147eba80")
 	)
 	(label "SCL"
 		(at 118.11 100.33 0)
@@ -4258,7 +4294,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150 Ω"
+		(property "Value" "60 Ω"
 			(at 254 93.9799 0)
 			(effects
 				(font
@@ -4982,72 +5018,6 @@
 			(project ""
 				(path "/3266c3d5-665e-4488-8076-23363c237f18"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 251.46 83.82 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ff727ac3-67bf-4d1d-a01c-44545343730e")
-		(property "Reference" "#PWR010"
-			(at 251.46 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 251.46 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 251.46 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 251.46 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 251.46 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3b67936e-c9ad-4393-9886-4ae7541fc194")
-		)
-		(instances
-			(project ""
-				(path "/3266c3d5-665e-4488-8076-23363c237f18"
-					(reference "#PWR010")
 					(unit 1)
 				)
 			)
