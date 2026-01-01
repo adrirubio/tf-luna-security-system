@@ -133,7 +133,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gerbers/security-system-v1.2/")
+			(outputdirectory "gerbers/security-system-v1.3/")
 		)
 	)
 	(net 0 "")
