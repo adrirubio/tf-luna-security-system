@@ -517,10 +517,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/security-system-v1.3/",
-      "pos_files": "",
+      "plot": "gerbers/security-system-v1.4/",
+      "pos_files": "../CPL/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "security-system.step",
       "svg": "",
       "vrml": ""
     },

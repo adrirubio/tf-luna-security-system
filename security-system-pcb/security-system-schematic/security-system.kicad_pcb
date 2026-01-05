@@ -14,8 +14,6 @@
 	)
 	(layers
 		(0 "F.Cu" signal "Front")
-		(4 "In1.Cu" signal)
-		(6 "In2.Cu" signal)
 		(2 "B.Cu" signal "Back")
 		(13 "F.Paste" user)
 		(15 "B.Paste" user)
@@ -48,29 +46,7 @@
 			)
 			(layer "dielectric 1"
 				(type "core")
-				(thickness 0.480066)
-				(material "FR4")
-				(epsilon_r 4.5)
-				(loss_tangent 0.02)
-			)
-			(layer "In1.Cu"
-				(type "copper")
-				(thickness 0.035)
-			)
-			(layer "dielectric 2"
-				(type "prepreg")
-				(thickness 0.480066)
-				(material "FR4")
-				(epsilon_r 4.5)
-				(loss_tangent 0.02)
-			)
-			(layer "In2.Cu"
-				(type "copper")
-				(thickness 0.035)
-			)
-			(layer "dielectric 3"
-				(type "core")
-				(thickness 0.480066)
+				(thickness 1.510198)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -133,7 +109,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gerbers/security-system-v1.3/")
+			(outputdirectory "gerbers/security-system-v1.4/")
 		)
 	)
 	(net 0 "")
@@ -4125,7 +4101,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "DECEMBER/26/2025 - v1.3"
+	(gr_text "DECEMBER/26/2025 - v1.4"
 		(at 153.012311 104.93 0)
 		(layer "F.SilkS")
 		(uuid "04dc843e-47bc-4dad-ab1e-16538b7c6065")
