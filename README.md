@@ -22,7 +22,7 @@ The system is built around a Freenove ESP32-S3-WROOM-1, which communicates with 
 
 | Component | Qty | Type |
 |-----------|-----|------|
-| ESP32-CAM Module | 1 | Controller |
+| Freenove ESP32-S3-WROOM-1 | 1 | Controller |
 | TF-Luna LiDAR Sensor | 1 | LiDAR Sensor |
 | microSD Card (32GB) | 1 | Storage |
 | Custom Carrier PCB | 1 | PCB |
@@ -33,11 +33,11 @@ The system is built around a Freenove ESP32-S3-WROOM-1, which communicates with 
 
 ## CAD Screenshots
 
-| Complete Assembly (Front View)| Complete Assembly (Top View) |
+| CAD Assembly (Front View)| CAD Assembly (Top View) |
 |-------------------------------|-------------------------------|
 | ![Assembly Model Front](screenshots/assembly-model-front.png) | ![Assembly Model Top](screenshots/assembly-model-top.png) |
 
-| 3D Case (Front View) | 3D Case (Side View) |
+| CAD 3D Case (Front View) | CAD 3D Case (Side View) |
 |----------------------|---------------------|
 | ![3D Case Front](screenshots/3d-case-1.png) | ![3D Case Side](screenshots/3d-case-2.png) |
 
@@ -56,7 +56,15 @@ Mount the system above your bedroom door using the 3D-printed case. The TF-Luna 
 
 ## TF-Luna Security System In Action
 
-**Coming Soon**
+| Complete Assembly (Side View)|
+|------------------------------|
+| ![Complete Assembly Side](screenshots/complete-assembly-side-view.jpg) |
+
+| Complete Assembly (PCB and Case View) | Complete Assembly (Back View) |
+|---------------------------------------|-------------------------------|
+| ![Complete Assembly PCB and Case](screenshots/pcb-and-case-view.jpg) | ![Complete Assembly Back](screenshots/complete-assembly-back-view.jpg) |
+
+**Demo Coming Soon**
 
 ## License
 
