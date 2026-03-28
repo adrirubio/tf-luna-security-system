@@ -34,10 +34,10 @@ The system is built around a Freenove ESP32-S3-WROOM-1, which communicates with 
 ## CAD Screenshots
 
 | CAD Assembly (Front View)| CAD Assembly (Top View) |
-|-------------------------------|-------------------------------|
+|--------------------------|-------------------------|
 | ![Assembly Model Front](screenshots/assembly-model-front.png) | ![Assembly Model Top](screenshots/assembly-model-top.png) |
 
-| CAD 3D Case (Front View) | CAD 3D Case (Side View) |
+| 3D Case (Front View) | 3D Case (Side View) |
 |----------------------|---------------------|
 | ![3D Case Front](screenshots/3d-case-1.png) | ![3D Case Side](screenshots/3d-case-2.png) |
 
