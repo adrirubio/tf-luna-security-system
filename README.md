@@ -64,7 +64,11 @@ Mount the system above your bedroom door using the 3D-printed case. The TF-Luna 
 |---------------------------------------|-------------------------------|
 | ![Complete Assembly PCB and Case](screenshots/pcb-and-case-view.jpg) | ![Complete Assembly Back](screenshots/complete-assembly-back-view.jpg) |
 
-**Demo Coming Soon**
+### Light Bar Demo
+[Click here to download the light bar demo video (MP4)](demo/video/security-system-demo.mp4)
+
+### YouTube Demo
+[Watch the demo on YouTube](https://youtu.be/43d7Ib5dUhA)
 
 ## License
 
